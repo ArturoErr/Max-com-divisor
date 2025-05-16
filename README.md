@@ -44,4 +44,5 @@ Se calcula el resto D = A % R.
 Si D es 0, entonces R es el MCD.
 
 En caso contrario, se llama recursivamente a la función con los valores R y D.
+
 -----------------------------------------------------------------------------------------------------------------------------------
